@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kristerus, my real name is Kristian Dhimitri. I'm a teenager programmer from Albania, aspirating to change the world for better.
+- 👋 Hi, I’m @kristerus, my real name is Kristian Dhimitri. I'm a teenager programmer located in Germany, aspirating to change the world for better.
 - 👀 I’m interested in web development, web design and app development. Blockchain technology seems amazing too.
 - 🌱 I’m currently learning Next.js to level up my web development game.
 - 💞️ I’m looking to collaborate on all sorts of projects, as long as i can learn something new and take something out of it.
